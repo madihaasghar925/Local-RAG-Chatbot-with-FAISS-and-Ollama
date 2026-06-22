@@ -149,6 +149,11 @@ streamlit run app.py
 - Chat history
 - Multiple LLM selection
 - Hybrid search (FAISS)
+
+
+
+##  Complete Project link
+https://drive.google.com/file/d/1_VQIeBb5aXo7I9abyATQJM-47Txi2JJJ/view?usp=drive_link
 - Docker deployment
 
 ---
