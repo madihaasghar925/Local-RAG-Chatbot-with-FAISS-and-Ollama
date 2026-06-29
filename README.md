@@ -152,10 +152,12 @@ streamlit run app.py
 
 
 
-##  Complete Project link
+##  Project Files
+
+Due to GitHub's file size limitations, the complete project package is available here:
+
+ Google Drive:
 https://drive.google.com/file/d/1_VQIeBb5aXo7I9abyATQJM-47Txi2JJJ/view?usp=drive_link
-- Docker deployment
 
----
-
+The repository contains the complete source code, while large files and assets are available through the Drive link if needed.
 
